@@ -1,2 +1,6 @@
 # hello-world
-just just
+#include<iostream>
+  using namespace std;
+  int main(){
+  return 0;
+  }
